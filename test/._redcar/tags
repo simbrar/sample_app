@@ -1,0 +1,4 @@
+1342483881
+BrowsingTest	C:/rails_projects/sample_app/test/performance/browsing_test.rb	class BrowsingTest 
+TestCase	C:/rails_projects/sample_app/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	C:/rails_projects/sample_app/test/performance/browsing_test.rb	  def test_homepage
